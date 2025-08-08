@@ -1,1 +1,1 @@
-![poster](./img/250319_Autism Prognositic factor_POSTER_revised.jpg)
+![poster](./img/250319_Autism%20Prognositic%20factor_POSTER_revised.jpg)
